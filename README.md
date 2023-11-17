@@ -25,7 +25,7 @@ ____
 
 hint1: start at 1
 
-use i+=2
+hint2: use i+=2
 
 **A/** (body of program)
 
